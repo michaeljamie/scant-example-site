@@ -24,7 +24,7 @@
   "homepage": "https://github.com/scantjs/scant-example-site#readme",
   "dependencies": {
     "moment": "^2.24.0",
-    "shimport": "^1.0.0",
+    "shimport": "^2.0.5",
     "sirv-cli": "^0.4.2",
     "svelte": "^3.3.0",
     "svelte-routes": "0.0.4"
